@@ -6,7 +6,7 @@ import { mkdirSync, readFileSync, writeFileSync } from "node:fs";
 import { dirname } from "node:path";
 
 const LINE =
-  "I was 99% done for six hours. The last 1% filed for an extension.";
+  "Eleven of my twelve parallel agents finished on time. The twelfth is writing this excuse.";
 
 const OUT_PATH = "/output/entry.txt";
 const LOWEST = 1;
